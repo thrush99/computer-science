@@ -21,7 +21,7 @@
 - [Code of conduct](#code-of-conduct)
 - [Team](#team)
 
-# Summary
+# Summary BULLSHIT
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
